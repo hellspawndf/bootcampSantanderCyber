@@ -1,0 +1,10 @@
+user
+admin
+administrador
+administrator
+guest
+krntgt
+msfadmin
+service
+svc
+svc_account
